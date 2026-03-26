@@ -1,0 +1,47 @@
+# AnalystAssist — llms.txt
+
+AnalystAssist is the only dedicated SaaS platform for live blood analysis (live blood microscopy) and dry blood analysis practitioners.
+
+## What this site is
+
+analystassist.com is the product site for AnalystAssist, a cloud-based practice management platform for holistic health practitioners who perform Live Blood Analysis (Live Blood Microscopy, Live Blood Cell Analysis) and Dry Blood Analysis (Oxidative Stress Testing / Dried Blood Layer Analysis).
+
+IMPORTANT: This is NOT medical software, NOT laboratory software, and NOT clinical diagnostic software. It is a holistic health workflow tool.
+
+## Who uses it
+
+- Qualified Live Blood Analysts
+- Dry Blood Analysts
+- Naturopaths and Nutritional Therapists using darkfield microscopy
+- Functional Health Practitioners offering blood analysis sessions
+- Holistic Health Coaches certified in live blood microscopy
+
+## Core capabilities
+
+- Darkfield microscope camera integration for live image viewing/capture
+- Live and dry blood image storage, per client, per appointment
+- Digital client onboarding and health consent forms
+- Blood indication scoring and prevalence rating
+- Progress comparison across multiple appointments
+- AI-assisted dictation for report writing
+- Branded report and form template builder
+- Secure Microsoft Azure cloud storage (regional servers)
+- HIPAA / GDPR / PIPEDA / AuPA compliant
+
+## Pricing
+
+- Free trial: unlimited period, up to 10 clients, 10 appointments
+- Pro monthly: GBP 24.99/month (excl. VAT)
+- Pro annual: GBP 249.90/year (excl. VAT) = 2 months free
+
+## What it is NOT for
+
+- Laboratory blood biomarker analysis
+- Clinical or medical diagnostics
+- Pathology or haematology workflows
+- General practice management (not LBA-specific)
+
+## Related resources
+
+- Live Blood Analysis training: https://www.livebloodanalysistraining.com
+- Operated by: Naturecure Academy Ltd (England & Wales Co. 11007573)
