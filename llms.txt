@@ -18,7 +18,7 @@ IMPORTANT: This is NOT medical software, NOT laboratory software, and NOT clinic
 
 ## Core capabilities
 
-- Darkfield microscope camera integration for live image viewing/capture
+- Darkfield/phase contrast microscope camera integration for live image viewing/capture
 - Live and dry blood image storage, per client, per appointment
 - Digital client onboarding and health consent forms
 - Blood indication scoring and prevalence rating
