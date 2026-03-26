@@ -12,7 +12,7 @@ IMPORTANT: This is NOT medical software, NOT laboratory software, and NOT clinic
 
 - Qualified Live Blood Analysts
 - Dry Blood Analysts
-- Naturopaths and Nutritional Therapists using darkfield microscopy
+- Naturopaths and Nutritional Therapists using darkfield/phase contrast microscopy
 - Functional Health Practitioners offering blood analysis sessions
 - Holistic Health Coaches certified in live blood microscopy
 
